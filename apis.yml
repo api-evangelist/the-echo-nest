@@ -35,7 +35,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-reason: acquired-by-spotify-2014; api-retired-2016-05-31; no-live-api-surface
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
